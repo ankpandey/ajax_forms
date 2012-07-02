@@ -1,7 +1,7 @@
 # A sample Gemfile
 source "http://rubygems.org"
 
-gem "rails"
+gem 'rails', '3.2.6'
 
 gem "haml"
 gem "jquery-rails"
